@@ -1,0 +1,17 @@
+{
+  "name": "hacker-news-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Oleg Kalman, https://www.linkedin.com/in/oleg-kalman/",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.45.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^20.8.9"
+  }
+}
